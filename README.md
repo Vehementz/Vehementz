@@ -1,5 +1,6 @@
 # J'ai pu réaliser plusieurs proejets lors de la formation de la WildCodeSchool et d'Openclassroom.
-# Vous trouverez ici des projets réalisé seul pour la formation d'Openclassroom. Le code projet client de la WildCodeSchool (dernier projet) ne peux pas être exposé pour des raisons de confidentialité. 
+
+## Vous trouverez ici des projets réalisé seul pour la formation d'Openclassroom. Le code projet client de la WildCodeSchool (dernier projet) ne peux pas être exposé pour des raisons de confidentialité. 
 
 
 
