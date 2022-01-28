@@ -1,6 +1,6 @@
 # J'ai pu réaliser plusieurs proejets lors de la formation de la WildCodeSchool et d'Openclassroom.
 
-## Vous trouverez ici des projets réalisé seul pour la formation d'Openclassroom. Le code projet client de la WildCodeSchool (dernier projet) ne peux pas être exposé pour des raisons de confidentialité. 
+## Vous trouverez ici des projets réalisé seul pour la formation d'Openclassroom. Le code projet client de la WildCodeSchool (dernier projet) ne peux pas être exposé pour des raisons de confidentialité, seul le projet MemoryGame (projet 2 de wildcodeschool) est disponible. 
 
 
 
@@ -10,8 +10,7 @@ Projet 2   :  https://vehementz.github.io/ClementPisu_2_31032021/
 
 Projet 3   : https://vehementz.github.io/PisuClement_3_23052021/
 
-
-Le code est disponible publiquement pour ces deux projets ainsi que pour le projet 5. 
+Le code est disponible publiquement pour ces deux projets ainsi que pour le projet 5 et MemoryGame fait en groupe à la wildcodeschool.
 
 
 ## J'ai sinon pu réaliser un certain nombre de projet.
@@ -30,7 +29,7 @@ Le code est disponible publiquement pour ces deux projets ainsi que pour le proj
   - 2eme projet Front-end React
   - 3eme projet Front-end React et Back-end Nodejs avec Express. Base de donnée avec SQL
 
-Les projets ne sont pas disponible sur github.
+Seul le 2eme projet est disponible sur github.
 
 
 ### Openclassroom
