@@ -1,19 +1,35 @@
-# J'ai pu réaliser plusieurs proejets lors de la formation de la WildCodeSchool et d'Openclassroom.
+# Clement Pisu
 
-## Vous trouverez ici des projets réalisé seul pour la formation d'Openclassroom. Le code projet client de la WildCodeSchool (dernier projet) ne peux pas être exposé pour des raisons de confidentialité, seul le projet MemoryGame (projet 2 de wildcodeschool) est disponible. 
+## Welcome
+
+I'm from Paris
+
+To introduce me, I am webdevelopper and I like find problem resolutions and improve my knowledge.  
+
+Outside of the web developper life, I read books, I have many psychology books. 
+I have a good health and I search sometimes informations in pubmed when it's not stackoverflow. 
+
+I had two web developpers schools, WildCodeSchool during 5 months and Openclassrooms
+And now I have a mentor. Maybe 2 in the future. Why not.
+
+
+Go to code aspect.
+You cand find differents project in this Github, but you can go to my profesionnal website with my portfolio and directly see some website created and go to the webpages.
+
+
+##Portfolio
+[Réservia](https://portfolio-web-lovat.vercel.app/))
+
+
+##Openclassrooms projects with visual
+([Réservia](https://vehementz.github.io/ClementPisu_2_31032021/))
+([OhMyFood](https://vehementz.github.io/PisuClement_3_23052021/))
 
 
 
-## Vous pourrez retrouver le visuel des projets 2 et 3 d'openclassroom visuellement disponible sur GithubPages avec les liens ci-dessous. 
-
-Projet 2   :  https://vehementz.github.io/ClementPisu_2_31032021/
-
-Projet 3   : https://vehementz.github.io/PisuClement_3_23052021/
-
-Le code est disponible publiquement pour ces deux projets ainsi que pour le projet 5 et MemoryGame fait en groupe à la wildcodeschool.
 
 
-## J'ai sinon pu réaliser un certain nombre de projet.
+I complete in English the next session during the next days
 
 ### Côté autodidacte: 
 
