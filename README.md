@@ -14,16 +14,15 @@ And now I have a mentor. Maybe 2 in the future. Why not.
 
 
 Go to code aspect.
-You cand find differents project in this Github, but you can go to my profesionnal website with my portfolio and directly see some website created and go to the webpages.
+You cand find differents project in this Github, but you can go to my profesionnal website and see my portfolio page to directly see some websites created and go to the webpages.
 
 
-##Portfolio
-[Réservia](https://portfolio-web-lovat.vercel.app/))
+## [My professional Website](https://portfolio-web-lovat.vercel.app/))
 
 
 ##Openclassrooms projects with visual
-([Réservia](https://vehementz.github.io/ClementPisu_2_31032021/))
-([OhMyFood](https://vehementz.github.io/PisuClement_3_23052021/))
+[Réservia](https://vehementz.github.io/ClementPisu_2_31032021/)
+[OhMyFood](https://vehementz.github.io/PisuClement_3_23052021/)
 
 
 
