@@ -16,13 +16,6 @@ I had two web developpers schools, WildCodeSchool during 5 months and Openclassr
 And now I have a mentor. Maybe 2 in the future. Why not.
 
 
-Go to code aspect.
-You cand find differents project in this Github, but you can go to my profesionnal website and see my portfolio page to directly see some websites created and go to the webpages.
-
-
-## [My professional Website](https://portfolio-web-lovat.vercel.app/)
-
-
 ##Openclassrooms projects with visual
 
 ### Freelance 
