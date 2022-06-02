@@ -34,8 +34,6 @@ wwww.nelsonwood.fr [www.nelsonwood.fr](https://nelsonwoood.fr/)
 Next.js website in progress
 
 - personal scheduler [hommedexception](https://homme-dexception.vercel.app/Clement)
-- 
-
 
 - renovation website only desktop
 
