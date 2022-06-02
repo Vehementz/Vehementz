@@ -25,36 +25,30 @@ You cand find differents project in this Github, but you can go to my profesionn
 [OhMyFood](https://vehementz.github.io/PisuClement_3_23052021/)
 
 
+### Freelance 
 
+wwww.nelsonwood.fr
 
+### Self Taught
 
-I complete in English the next session during the next days
+Next.js website in progress
 
-### Côté autodidacte: 
+- renovation website only desktop
 
--Un site type entreprise de rénovation. Un site plus complet est en cours d'élaboration.
+### With Wildcodeschool
 
--Un début de site avec Nextjs. Il sera poursuivit ou repris ultérieurement mais m'a permit de comprendre une partie du fonctionnement de Next et de ses avanatages par rapport à React.
-
-### Avec la WilCodeSchool
-
-2 Hackatons.
-3 projets de groupe dont le dernier avec un véritable client : 
-  - 1er projet en html css. 
-  - 2eme projet Front-end React
-  - 3eme projet Front-end React et Back-end Nodejs avec Express. Base de donnée avec SQL
-
-Seul le 2eme projet est disponible sur github.
+#2 Hackatons
+#3 group projects: 
+  - 3th React project & Node.js Express MySQL for the  Back-end
+  - 2nd React
+  - 1er project only with html css
+  
+Only the second can be find in my repositories
 
 
 ### Openclassroom
 
-1 projet d'intégration en html css
-1 projet d'intégration de plusieurs page en html, css et sass
-1 projet d'optimisation du SEO. 
-1 projet type e-commerce avec validation liée au back-end déja conçu et manipulation d'une API. 
-
-
-J'ai depuis novembre travaillé en améliorant mes compétences en UX/Ui, en algorithmie. 
-Je travaille actuellement sur la création d'un site internet pour quelqu'un dans un cercle proche, je reste tout de même disponible dans l'immédiat pour un poste ou un stage.
-
+1 html css integration project
+1 integration project with 4 pages html, sass(css) pages
+1 SEO optimization project
+1 e-commerce front-end project conntected to a Backend
