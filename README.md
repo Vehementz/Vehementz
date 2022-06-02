@@ -49,8 +49,8 @@ Only the second can be find in my repositories
 
 
 ### Openclassroom
-
-1 html css integration project [Réservia](https://vehementz.github.io/ClementPisu_2_31032021/)
-1 integration project with 4 pages html, sass(css) pages [OhMyFood](https://vehementz.github.io/PisuClement_3_23052021/)
-1 SEO optimization project  [La chouette](https://vehementz.github.io/P4_Pisu_Clement/home.html/)
-1 e-commerce front-end project conntected to a Backend  [Oniroco code](https://github.com/Vehementz/P5_Pisu_Clement/)
+4 personal project:
+   - 1 html css integration project [Réservia](https://vehementz.github.io/ClementPisu_2_31032021/)
+   - 1 integration project with 4 pages html, sass(css) pages [OhMyFood](https://vehementz.github.io/PisuClement_3_23052021/)
+   - 1 SEO optimization project  [La chouette](https://vehementz.github.io/P4_Pisu_Clement/home.html/)
+   - 1 e-commerce front-end project conntected to a Backend  [Oniroco code](https://github.com/Vehementz/P5_Pisu_Clement/)
