@@ -15,9 +15,6 @@ I have a good health and I search sometimes informations in pubmed when it's not
 I had two web developpers schools, WildCodeSchool during 5 months and Openclassrooms
 And now I have a mentor. Maybe 2 in the future. Why not.
 
-
-##Openclassrooms projects with visual
-
 ### Freelance 
 
 wwww.nelsonwood.fr [www.nelsonwood.fr](https://nelsonwoood.fr/) 
