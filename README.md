@@ -3,13 +3,13 @@
 ## [My Website](https://clement-pisu.vercel.app/portfolio)
 
 
-## Welcome
+## 👋 Welcome
 
-I'm from Paris
+I'm from Paris 🇫🇷
 
-To introduce me, I am webdevelopper and I like find problem resolutions and improve my knowledge.  
+To introduce me, I am web developper 🧑‍💻 and I like find problem resolutions and improve my knowledge.  
 
-Outside of the web developper life, I read books, I have many psychology books. 
+Outside of the web developper life, I read books, I have many psychology books. 📚📚📚
 I have a good health and I search sometimes informations in pubmed when it's not stackoverflow. 
 
 I had two web developpers schools, WildCodeSchool during 5 months and Openclassrooms
@@ -17,15 +17,15 @@ And now I have a mentor. Maybe 2 in the future. Why not.
 
 ### Freelance 
 
-wwww.nelsonwood.fr [www.nelsonwood.fr](https://nelsonwoood.fr/) 
+wwww.nelsonwood.fr [www.nelsonwood.fr](https://nelsonwoood.fr/) 👔
 
 ### Self Taught
 
 Next.js website in progress
 
-- personal scheduler [hommedexception](https://homme-dexception.vercel.app/Clement)
+- personal scheduler [hommedexception](https://homme-dexception.vercel.app/Clement) 📆
 
-- renovation website only desktop
+- renovation website only desktop 
 
 ### With Wildcodeschool
 
