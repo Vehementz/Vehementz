@@ -69,6 +69,6 @@ Only the second can be find in my repositories
 
 📞 Contact 📱
 
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Télégram"/> [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"](https://t.me/ForBetterHumans)
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"(https://t.me/ForBetterHumans) alt="Télégram"/> 
 
 
