@@ -44,7 +44,6 @@ Next.js website in progress
 
 - personal scheduler [hommedexception](https://homme-dexception.vercel.app/Clement) 📆
 
-- renovation website only desktop 
 
 ### With Wildcodeschool
 
@@ -70,5 +69,5 @@ Only the second can be find in my repositories
 📞 Contact 📱
 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  alt="Télégram"/> 
-(https://t.me/ForBetterHumans)
+(https://t.me/PlayerWiener
 
