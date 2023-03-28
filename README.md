@@ -33,11 +33,6 @@ And now I have a mentor. Maybe 2 in the future. Why not.
 </p>
 
 
-
-### Freelance 
-
-wwww.nelsonwood.fr [www.nelsonwood.fr](https://nelsonwoood.fr/) 👔
-
 ### Self Taught
 
 Next.js website in progress
