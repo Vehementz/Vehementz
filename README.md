@@ -1,8 +1,3 @@
-# Clement Pisu
-
-## [My Website](https://clement-pisu.vercel.app/portfolio)
-
-
 ## 👋 Welcome
 
 I'm from Paris 🇫🇷
