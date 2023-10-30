@@ -7,9 +7,6 @@ To introduce me, I am web developper 🧑‍💻 and I like find problem resolut
 Outside of the web developper life, I read books, I have many psychology books. 📚📚📚
 I have a good health and I search sometimes informations in pubmed when it's not stackoverflow. 
 
-I had two web developpers schools, WildCodeSchool during 5 months and Openclassrooms
-And now I have a mentor. Maybe 2 in the future. Why not.
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -26,6 +23,10 @@ And now I have a mentor. Maybe 2 in the future. Why not.
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> 
 </p>
+
+
+
+
 
 
 ### Self Taught
