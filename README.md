@@ -5,7 +5,7 @@ I'm from Paris 🇫🇷
 To introduce me, I am web developper 🧑‍💻 and I like find problem resolutions and improve my knowledge.  
 
 # My portfolio with some personal projects
-https://clement-pisu.vercel.app/
+https://clement-pisu.fr
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
