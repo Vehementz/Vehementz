@@ -3,6 +3,7 @@
 I'm from Paris 🇫🇷
 
 To introduce me, I am web developper 🧑‍💻 and I like find problem resolutions and improve my knowledge.  
+I also like cybersecurity and devops. 
 
 # My portfolio with some personal projects
 https://clement-pisu.fr
