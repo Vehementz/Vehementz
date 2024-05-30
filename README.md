@@ -6,37 +6,37 @@ To introduce me, I am web developper / devops 🧑‍💻
 I like find problem resolutions and improve my knowledge
 
 # DevOPS
-- Docker
-- Linux
-- CI/CD, GithubActions 
-- Ansible
-- Bash / Python / YAML
-- Grafana / Prometheus
-- Terraform (in progress)
-- Proxmox (in progress)
+Docker: 🐳
+Linux: 🐧
+CI/CD, GithubActions: ⚙️
+Ansible: 🧰
+Bash / Python / YAML: 📜
+Grafana / Prometheus: 📊
+Terraform (in progress): 🏗️
+Proxmox (in progress): 🖥️
 
-# Web Developpement
-- Javascript / Typescript
+# Web Development
+Javascript / Typescript: 🟨
 ## Front-End
-- HTML / CSS / SASS / TailwindCSS
-- React.js / Next.js - Vue.js / Nuxt.js
-- Node.js - Express - TypeGraphQL, TypeORM
-- UX-UI Sensibility
-- SEO / Accessibilité 
-## Back-end
-Back-End
-Node.js / Express 
-REST / GraphQL   
-PostgreSQL /MongoDB
-TypeGraphQL / TypeORM 
+HTML / CSS / SASS / TailwindCSS: 
+React.js / Next.js  ⚛️   Vue.js / Nuxt.js 
+Node.js - Express - TypeGraphQL, TypeORM: 
+UX-UI Sensibility: 👁️‍🗨️
+SEO / Accessibility: 🔍
 
-## Testing 
-- Jest, React testing Library, Playwright
+## Back-End
+Node.js / Express REST / GraphQL: 
+PostgreSQL / MongoDB: 🐘 (PostgreSQL), 🍃 (MongoDB)
+TypeGraphQL / TypeORM: 🗃️
+
+## Testing
+Jest, React Testing Library, Playwright: 🧪
 
 # Methodology 
 - Agile / Scrum
 
-I also have some cybersecurity knowledges 
+## Cybersecurity knowledges 
+
 
 # My portfolio with some personal projects
 https://clement-pisu.fr
