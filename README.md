@@ -6,37 +6,46 @@ To introduce me, I am web developper / devops 🧑‍💻
 I like find problem resolutions and improve my knowledge
 
 # DevOPS
-Docker: 🐳
-Linux: 🐧
-CI/CD, GithubActions: ⚙️
-Ansible: 🧰
-Bash / Python / YAML: 📜
-Grafana / Prometheus: 📊
-Terraform (in progress): 🏗️
-Proxmox (in progress): 🖥️
+- Docker: 🐳
+- Linux: 🐧
+- CI/CD, GithubActions: ⚙️
+- Ansible: 🧰
+- Bash / Python / YAML: 📜
+- Grafana / Prometheus: 📊
+- Terraform (in progress): 🏗️
+- Proxmox (in progress): 🖥️
 
 # Web Development
-Javascript / Typescript: 🟨
+- Javascript / Typescript: 🟨
+
 ## Front-End
-HTML / CSS / SASS / TailwindCSS: 
-React.js / Next.js  ⚛️   Vue.js / Nuxt.js 
-Node.js - Express - TypeGraphQL, TypeORM: 
-UX-UI Sensibility: 👁️‍🗨️
-SEO / Accessibility: 🔍
+- HTML / CSS / SASS / TailwindCSS: 🎨
+- React.js / Next.js  ⚛️   Vue.js / Nuxt.js 
+- Node.js - Express - TypeGraphQL, TypeORM: 
+- UX-UI Sensibility: 👁️‍🗨️
+- SEO / Accessibility: 🔍
+- Authentication and Authorization: 👤🔑
 
 ## Back-End
-Node.js / Express REST / GraphQL: 
-PostgreSQL / MongoDB: 🐘 (PostgreSQL), 🍃 (MongoDB)
-TypeGraphQL / TypeORM: 🗃️
+- Node.js / Express REST / GraphQL: 
+- PostgreSQL / MongoDB: 🐘 (PostgreSQL), 🍃 (MongoDB)
+- TypeGraphQL / TypeORM: 🗃️
+- Authentication and Authorization: 👤🔑
 
 ## Testing
-Jest, React Testing Library, Playwright: 🧪
+- Jest, React Testing Library, Playwright: 🧪
 
 # Methodology 
-- Agile / Scrum
+- Agile 🔄 / Scrum 🏉 📋 👥    
 
 ## Cybersecurity knowledges 
-
+- Firewall - Hardening  🛡️ 
+- Load Balancer: ⚖️🔄
+- SSL/TLS Encryption: 🔒📜
+- Database Server: 🗄️💾
+- Backup and Recovery: 💽♻️ 
+- Monitoring and Logging: 📊📝
+- Web Application Firewall (WAF): 🌐🛡️
 
 # My portfolio with some personal projects
 https://clement-pisu.fr
