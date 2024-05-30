@@ -1,9 +1,42 @@
 ## 👋 Welcome
 
-I'm from Paris 🇫🇷
+Hello from Paris 🇫🇷
 
-To introduce me, I am web developper 🧑‍💻 and I like find problem resolutions and improve my knowledge.  
-I also like cybersecurity and devops. 
+To introduce me, I am web developper / devops 🧑‍💻
+I like find problem resolutions and improve my knowledge
+
+# DevOPS
+- Docker
+- Linux
+- CI/CD, GithubActions 
+- Ansible
+- Bash / Python / YAML
+- Grafana / Prometheus
+- Terraform (in progress)
+- Proxmox (in progress)
+
+# Web Developpement
+- Javascript / Typescript
+## Front-End
+- HTML / CSS / SASS / TailwindCSS
+- React.js / Next.js - Vue.js / Nuxt.js
+- Node.js - Express - TypeGraphQL, TypeORM
+- UX-UI Sensibility
+- SEO / Accessibilité 
+## Back-end
+Back-End
+Node.js / Express 
+REST / GraphQL   
+PostgreSQL /MongoDB
+TypeGraphQL / TypeORM 
+
+## Testing 
+- Jest, React testing Library, Playwright
+
+# Methodology 
+- Agile / Scrum
+
+I also have some cybersecurity knowledges 
 
 # My portfolio with some personal projects
 https://clement-pisu.fr
