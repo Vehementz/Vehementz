@@ -1,7 +1,5 @@
 ## 👋 Welcome
 
-Hello from Paris 🇫🇷
-
 To introduce me, I am web developper / devops 🧑‍💻
 I like find problem resolutions and improve my knowledge
 
