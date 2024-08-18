@@ -1,7 +1,7 @@
 ## 👋 Welcome
 
-To introduce me, I am web developper / devops 🧑‍💻
-I like find problem resolutions and improve my knowledge
+Web developper / DevOPS 🧑‍💻
+I like find problems resolutions and improve my knowledge
 
 # DevOPS
 - Docker 🐳
