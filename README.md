@@ -1,17 +1,18 @@
 ## 👋 Welcome
 
-Web developper / DevOPS 🧑‍💻
+Software engineer / DevOPS 🧑‍💻
+
 I like find problems resolutions and improve my knowledge
 
 # DevOPS
 - Docker 🐳
 - Linux 🐧
-- CI/CD, GithubActions ⚙️
+- CI/CD, Gitlab-CI GithubActions ⚙️
 - Ansible 🧰
 - Bash / Python / YAML 📜
 - Grafana / Prometheus 📊
-- Terraform (in progress) 🏗️
-- Proxmox (in progress) 🖥️
+- Terraform 🏗️
+- Proxmox  🖥️
 
 # Web Development
 - Javascript / Typescript 🟨
@@ -26,18 +27,20 @@ I like find problems resolutions and improve my knowledge
 
 ## Back-End
 - Node.js / Express REST / GraphQL 
-- PostgreSQL / MongoDB 🐘 - (PostgreSQL), 🍃 (MongoDB)
+- PostgreSQL / MySQL
 - TypeGraphQL / TypeORM 🗃️
 - Authentication and Authorization 👤🔑
 
 ## Testing
 - Jest, React Testing Library, Playwright 🧪
+- Postman
 
 # Methodology 
 - Agile 🔄 / Scrum 🏉 📋 👥    
 
 ## Cybersecurity knowledges 
-- Firewall - Hardening  🛡️ 
+- Firewall  🛡️ 
+- Hardening  🛡️ 
 - Load Balancer ⚖️🔄
 - SSL/TLS Encryption 🔒📜
 - Database Server 🗄️💾
@@ -46,6 +49,7 @@ I like find problems resolutions and improve my knowledge
 - Web Application Firewall (WAF) 🌐🛡️
 
 # My portfolio with some personal projects
+
 https://clement-pisu.fr
 
 <p align="left">
