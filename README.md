@@ -2,27 +2,27 @@
 
 Software engineer / DevOPS 🧑‍💻
 
-Above is written that I am a Software Engineer/Devops, it's false, i'm not merely a software engineer. 
-I am an enabler of change and innovation. 
-Throughout my apprenticeships at two trailblazing companies and my personal projects, 
-I learn to create something where coding synergizes with operational, you can label it DevOps, but's it's more than that.
+Above is written that I am a Software Engineer/Devops, it's false, 
+I am not merely a Software Engineer/DevOps; I am an enabler of change and innovation.
 
-My journey has been a relentless pursuit of acquiring complementary skills, mastering the art of creation,
-and ensuring that clients can access our innovations with both security and stability. 
+Throughout my apprenticeships at two trailblazing companies, my trainings, and my personal projects, 
+I’ve learned to create solutions where coding synergizes with operations. 
+You can label it DevOps, but it’s more than that.
 
-I utilize automation to its fullest potential, employing tools like Ansible to streamline and enhance processes.
-Through specialized DevOps training, I've refined a diverse yet evolving skill set—and my evolution is perpetual.
+My journey has been a pursuit of acquiring complementary skills, mastering the art of creation, and ensuring that clients can access our innovations with both security and stability. 
+I’ve refined a diverse yet evolving skill set, and my evolution is perpetual.
+
+I utilize automation, employing tools like Ansible and Terraform, and reproducible environments with virtualization and containers to streamline and enhance processes.
 
 🌱 Innovation never rests, and neither do I.
 
-I am dedicated to pushing my limits, using line of code as a foundational stone towards something profoundly beautiful, as the artisans who once built cathedrals.
+I am dedicated to pushing my limits, using each line of code as a foundational stone toward something profoundly beautiful—much like the artisans who once built cathedrals.
 
 💬 Let’s connect. Every collaboration is a chance to challenge the status quo. Let’s innovate, together.
 
 Best regards,
-Clément 
 
-
+Clément
 
 ## Technologies, Skills and methologies
 
