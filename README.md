@@ -1,26 +1,54 @@
 # Welcome
+There are two parts to this description, one in English and the second in French.
 
 Software engineer / DevOPS 🧑‍💻
 
-Above is written that I am a Software Engineer/Devops, it's false, 
-I am not merely a Software Engineer/DevOps; I am an enabler of change and innovation.
+Above is written that I am a Software Engineer/Devops, it's false, I am not merely a Software Engineer/DevOps.
 
-Throughout my apprenticeships at two trailblazing companies, my trainings, and my personal projects, 
+I am an enabler of change and innovation.
+
+Throughout my apprenticeships at two companies, my trainings, and my personal projects, 
 I’ve learned to create solutions where coding synergizes with operations. 
 You can label it DevOps, but it’s more than that.
 
-My journey has been a pursuit of acquiring complementary skills, mastering the art of creation, and ensuring that clients can access our innovations with both security and stability. 
+My journey has been a pursuit of acquiring complementary skills, creation of innovations, and ensuring that clients can access theses innovations with both security and stability. 
 I’ve refined a diverse yet evolving skill set, and my evolution is perpetual.
 
 I utilize automation, employing tools like Ansible and Terraform, and reproducible environments with virtualization and containers to streamline and enhance processes.
 
 🌱 Innovation never rests, and neither do I.
 
-I am dedicated to pushing my limits, using each line of code as a foundational stone toward something profoundly beautiful—much like the artisans who once built cathedrals.
+I am dedicated to pushing my limits, using each line of code as a foundational stone toward something profoundly beautiful, much like the artisans who once built cathedrals.
 
 💬 Let’s connect. Every collaboration is a chance to challenge the status quo. Let’s innovate, together.
 
 Best regards,
+
+Clément
+
+----------------
+
+Software engineer / DevOps 🧑‍💻
+
+Ci-dessus, il est indiqué que je suis Software Engineer/DevOps, ce qui est réducteur, je ne me limite pas à ces fonctions.
+Je suis un facilitateur de changement et d’innovation.
+
+Au cours de mes apprentissages dans deux compagnies, de mes formations et de mes projets personnels,
+j’ai appris à concevoir des solutions où le code se marie harmonieusement aux opérations.
+Vous pouvez l’appeler DevOps, mais c’est bien plus que cela.
+
+Mon parcours est une quête d’acquisition de compétences complémentaires, du développement de solutions innovantes et de garantie d’un accès sécurisé et stable à ses innovations pour les clients.
+J’ai affiné un ensemble de compétences diversifié et en constante évolution, ma progression est perpétuelle.
+
+J’utilise l’automatisation, avec des outils comme Ansible et Terraform, et des environnements reproductibles via virtualisation et conteneurs, afin de fluidifier et d’optimiser les processus.
+
+🌱 L’innovation ne s’arrête jamais, et moi non plus.
+
+Je m’engage à repousser mes limites, chaque ligne de code étant une pierre fondamentale posée vers quelque chose de profondément beau, à l’image des artisans qui ont jadis édifié des cathédrales.
+
+💬 Entrons en contact ! Chaque collaboration est l’occasion de bousculer le statu quo. Innovons, ensemble.
+
+Bien à vous,
 
 Clément
 
