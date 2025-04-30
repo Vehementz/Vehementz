@@ -1,4 +1,7 @@
 # Welcome
+
+From Paris 🇨🇵🥐🥖🗼
+
 There are two parts to this description, one in English and the second in French.
 
 Software engineer / DevOPS 🧑‍💻
