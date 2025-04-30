@@ -1,10 +1,26 @@
-## 👋 Welcome
+# Welcome
 
 Software engineer / DevOPS 🧑‍💻
 
-I like find problems resolutions and improve my knowledge
+Hello, above is written that I am a Software Engineer/Devops, it's false, i'm not just a software engineer. 
+I’m someone that enable of change and innovation. 
+During my apprenticeships at two pioneering companies and personnal project, I carved out a niche where coding meets operational DevOps.
 
-# DevOPS
+My journey has been one of relentless pursuit of acquisition of complementary skills, to know how create, and how allow clients to access it with security and stability.
+For that I used automation, with tools as Ansible.
+Through specialized DevOps training, I've refined a diverse yet evolving skill set—and my evolution is perpetual.
+
+🌱 Innovation never rests, and neither do I.
+
+I am committed to pushing the boundaries of what's possible, using each line of code as a building block toward something profoundly beautiful—much like those who once labored to construct cathedrals.
+💬 Let’s connect. Every collaboration is a chance to challenge the status quo. Let’s innovate, together.
+
+Best regards,
+Clément 
+
+## Technologies, Skills and methologies
+
+### DevOPS
 - Docker 🐳
 - Linux 🐧
 - CI/CD, Gitlab-CI GithubActions ⚙️
@@ -14,10 +30,10 @@ I like find problems resolutions and improve my knowledge
 - Terraform 🏗️
 - Proxmox  🖥️
 
-# Web Development
+### Web Development
 - Javascript / Typescript 🟨
 
-## Front-End
+### Front-End
 - HTML / CSS / SASS / TailwindCSS 🎨
 - React.js / Next.js  ⚛️   Vue.js / Nuxt.js 
 - Node.js - Express - TypeGraphQL, TypeORM 
@@ -25,17 +41,17 @@ I like find problems resolutions and improve my knowledge
 - SEO / Accessibility 🔍
 - Authentication and Authorization 👤🔑
 
-## Back-End
+### Back-End
 - Node.js / Express REST / GraphQL 
 - PostgreSQL / MySQL
 - TypeGraphQL / TypeORM 🗃️
 - Authentication and Authorization 👤🔑
 
-## Testing
+### Testing
 - Jest, React Testing Library, Playwright 🧪
 - Postman
 
-# Methodology 
+## Methodology 
 - Agile 🔄 / Scrum 🏉 📋 👥    
 
 ## Cybersecurity knowledges 
