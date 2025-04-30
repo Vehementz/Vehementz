@@ -2,21 +2,27 @@
 
 Software engineer / DevOPS 🧑‍💻
 
-Hello, above is written that I am a Software Engineer/Devops, it's false, i'm not just a software engineer. 
-I’m someone that enable of change and innovation. 
-During my apprenticeships at two pioneering companies and personnal project, I carved out a niche where coding meets operational DevOps.
+Above is written that I am a Software Engineer/Devops, it's false, i'm not merely a software engineer. 
+I am an enabler of change and innovation. 
+Throughout my apprenticeships at two trailblazing companies and my personal projects, 
+I learn to create something where coding synergizes with operational, you can label it DevOps, but's it's more than that.
 
-My journey has been one of relentless pursuit of acquisition of complementary skills, to know how create, and how allow clients to access it with security and stability.
-For that I used automation, with tools as Ansible.
+My journey has been a relentless pursuit of acquiring complementary skills, mastering the art of creation,
+and ensuring that clients can access our innovations with both security and stability. 
+
+I utilize automation to its fullest potential, employing tools like Ansible to streamline and enhance processes.
 Through specialized DevOps training, I've refined a diverse yet evolving skill set—and my evolution is perpetual.
 
 🌱 Innovation never rests, and neither do I.
 
-I am committed to pushing the boundaries of what's possible, using each line of code as a building block toward something profoundly beautiful—much like those who once labored to construct cathedrals.
+I am dedicated to pushing my limits, using line of code as a foundational stone towards something profoundly beautiful, as the artisans who once built cathedrals.
+
 💬 Let’s connect. Every collaboration is a chance to challenge the status quo. Let’s innovate, together.
 
 Best regards,
 Clément 
+
+
 
 ## Technologies, Skills and methologies
 
