@@ -31,7 +31,7 @@ Clément
 
 ----------------
 
-Software engineer / DevOps 🧑‍💻
+Ingénieur Software / DevOps 🧑‍💻
 
 Ci-dessus, il est indiqué que je suis Software Engineer/DevOps, ce qui est réducteur, je ne me limite pas à ces fonctions.
 Je suis un facilitateur de changement et d’innovation.
