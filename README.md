@@ -58,13 +58,14 @@ Clément
 ## Technologies, Skills and methologies
 
 ### DevOPS
-- Docker 🐳
 - Linux 🐧
 - CI/CD, Gitlab-CI GithubActions ⚙️
+- Docker 🐳
+- Kubernetes
+- Terraform 🏗️
 - Ansible 🧰
 - Bash / Python / YAML 📜
 - Grafana / Prometheus 📊
-- Terraform 🏗️
 - Proxmox  🖥️
 
 ### Web Development
