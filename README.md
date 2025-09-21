@@ -29,32 +29,6 @@ Best regards,
 
 Clément
 
-----------------
-
-Ingénieur Software / DevOps 🧑‍💻
-
-Ci-dessus, il est indiqué que je suis Software Engineer/DevOps, ce qui est réducteur, je ne me limite pas à ces fonctions.
-Je suis un facilitateur de changement et d’innovation.
-
-Au cours de mes apprentissages dans deux compagnies, de mes formations et de mes projets personnels,
-j’ai appris à concevoir des solutions où le code se marie harmonieusement aux opérations.
-Vous pouvez l’appeler DevOps, mais c’est bien plus que cela.
-
-Mon parcours est une quête d’acquisition de compétences complémentaires, du développement de solutions innovantes et de garantie d’un accès sécurisé et stable à ses innovations pour les clients.
-J’ai affiné un ensemble de compétences diversifié et en constante évolution, ma progression est perpétuelle.
-
-J’utilise l’automatisation, avec des outils comme Ansible et Terraform, et des environnements reproductibles via virtualisation et conteneurs, afin de fluidifier et d’optimiser les processus.
-
-🌱 L’innovation ne s’arrête jamais, et moi non plus.
-
-Je m’engage à repousser mes limites, chaque ligne de code étant une pierre fondamentale posée vers quelque chose de profondément beau, à l’image des artisans qui ont jadis édifié des cathédrales.
-
-💬 Entrons en contact ! Chaque collaboration est l’occasion de bousculer le statu quo. Innovons, ensemble.
-
-Bien à vous,
-
-Clément
-
 ## Technologies, Skills and methologies
 
 ### DevOPS
